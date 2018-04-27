@@ -1,0 +1,40 @@
+To: Ulises Gaytan, Beth Murphy, Debra Ferber, Bruce Burfeind, Joe Aschenbrenner, Mark Molinari, Rick McKay
+Cc: Ivan Diego, Natalia Lopez, Abraham Aranda
+
+Subject: Personal request to executives
+
+Good morning business executives,
+
+I have been informed that I have a salary adjustment approved for this year. The net amount of this increment is less than $3000 MXN per month. I would like to share my impressions on this amount for your reviewal since I consider it under my expectations given the amount and quality of work I have been delivering during the last years and the role I have been playing with the company and the client.
+
+Let me share some highlights and achievements I have obtained in the last years:
+
+•	12 years working with 4th Source since 2006
+•	Last salary raise/promotion occurred 6 years ago on 2012
+•	Helped ESI finance department solving critical financial issues due to system issues as part of the Specialty Margin Recovery program traveling on multiple ocassions to St. Louis to participate on this effort.
+•	Have delivered as Tech Lead over a dozen projects in the last 2 years with no single issue in production, being the biggest and most important:
+1)	Migration from PAC to Safire system in Memphis (2016).
+2)	Auto Purchase Orders optimization reducing the time of amount of human intervention from 12+ hours to few minutes (2017).
+3)	Creation of a new Service Branch in Rio Salado, AZ, to provide West Coast presence, being this the only other SB besides Memphis to both include inventory scanners functionality and being Safire enabled (2017).
+4)	Safire CP86/87 communication channel parallelization, which increased the amount of Safire orders processed from 2-3 per second to over 150 per second making it possible to close manifest almost as soon as it is sent by Safire (2018).
+5)	Virtual locations for Service Branch inventory transfers (2018). 
+•	Was the only ESI employee to be explicitly requested by the client to travel on 2017 to provide on-site support on the Rio Salado project since all travels were canceled by the client for that year.
+•	Have been explicitly requested again by the client to travel again this year to Warrendale to provide support to the non-Orals Safire go live due to my experience, even when this project was not assigned nor worked by my team, but by Vel Sadasivam from another consultancy.
+•	First Tech Lead in ESI to start using Agile Methodology with JIRA for development projects in January 2017.
+•	Received personal acknowledgments and recognition from ESI directors and managers such as Carlos Cuesta, Anil Karuhatti, Anith Larson, Steve Hinkle and Wendy Halsey.
+•	Have received 4 recognitions so far as part of the 4th Source Stars recognition program due to my achievements.
+•	Got certificated in PEGA in 2017 obtaining the highest grade in the company so far with a result of 87%.
+•	Obtained a score of 86% in the English Proficiency Test which makes English classes not required.
+•	Not having missed a single punctuality bonus since 2014 according to the 4th source punctuality policies in place at the time.
+•	Have reached an agreement for at least 2 more years of Inventory Management projects for the company with Carlos Cuesta.
+
+Given the facts listed above, I do not consider a salary adjustment of less than $3000 MXN a month after 6 years reflects the results I have provided to the company. My expectations were for a raise of around $500 USD due to both the time passed, my commitment and the excellent results obtained.
+
+It is my desire to continue working with the company in the same way I have been, however, I am currently going through a critical economic situation due to family health issues (including 2 major surgeries) that directors are well aware of, and given the heart I put on my daily work and my commitment with the company through all these years I do not consider I can continue working at this pace while I am constantly worrying for not being able to pay bills or my children's school on time.
+
+I leave this information for your consideration and I am open to discuss. I would appreciate if my case could be handled independently of the budget provided for raises this year due to the points I have listed, since I am aware we are on a tight budget.
+
+Again, I appreciate all the support you provide me on this matter. Thank you.
+
+Alejandro Lizarraga
+Development Tech Lead
